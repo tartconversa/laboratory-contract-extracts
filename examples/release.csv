@@ -1,0 +1,4 @@
+arrival,release,group,receiver,kind
+4,AR21,K-28,WH-A,accepted
+4,AR22,K-44,WH-B,offered
+6,AR21,K-28,WH-A,correction_ack

@@ -1,0 +1,7 @@
+arrival,dispatch,sample,lab,grams,state
+2,SA12,S12,LAB-A,10,received
+2,SA13,S13,LAB-A,12,received
+5,SA16,S16,LAB-B,10,allocated
+6,SA16,S16,LAB-B,10,cancel_requested
+7,SA16,S16,LAB-B,10,cancel_ack
+8,SA20,S16,LAB-C,10,received

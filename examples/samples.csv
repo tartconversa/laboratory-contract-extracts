@@ -1,0 +1,12 @@
+arrival,sample,source_lots,parent,grams,status
+1,S01,L611,,40,available
+1,S02,L611,,40,available
+1,S03,L612,,60,available
+1,S04,L701,,55,available
+1,S11,L611;L612,S01;S03,20,available
+2,S12,L611,S02,10,available
+2,S13,L611,S01,12,available
+2,S14,L701,S04,12,available
+3,S15,L702,,40,available
+5,S01,L611,,40,tainted
+5,S16,L611,,20,available

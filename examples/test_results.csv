@@ -1,0 +1,8 @@
+arrival,result,revision,at,sample,method,value,status
+3,F01,1,2026-10-15,S11,M1,6,below
+3,F02,1,2026-10-15,S12,M2,4,detected
+3,F03,1,2026-10-16,S13,M2,3,detected
+3,F04,1,2026-10-16,S14,M4,5500,below
+4,F17,1,2026-10-18,S15,M2,2,detected
+5,F01,2,2026-10-15,S11,M1,,retracted
+8,F20,1,2026-10-27,S16,M2,4,below

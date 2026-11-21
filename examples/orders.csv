@@ -1,0 +1,6 @@
+group,line,material,lot,matrix,metric,unit,upper,replicates,pooled
+K-28,OL-A,薄膜,L611,PE,migration,mg/kg,5,2,no
+K-28,OL-B,盒封,L701,PP,migration,mg/kg,7,1,no
+K-44,OL-C,薄膜,L611,PE,migration,mg/kg,8,1,yes
+K-44,OL-D,薄膜,L612,PE,migration,mg/kg,8,1,yes
+K-47,OL-E,盒封,L702,PP,migration,mg/kg,7,1,no
